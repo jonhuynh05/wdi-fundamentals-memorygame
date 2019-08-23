@@ -64,6 +64,13 @@ footer{
 	letter-spacing: 0.8em;
 	font-weight: 500;
 }
+button{
+	font-size: 14px;
+	font-family: "Droid Serif";
+}
+.reset {
+	padding: 20px 0 0 0;
+}
 .copyright {
 	font-family: "raleway";
 	float: left;
